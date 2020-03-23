@@ -71,7 +71,7 @@ class App extends Component {
     <Layout>
         <Header className="header" title="Yash Mantri" scroll>
             <Navigation>
-                <Link style={{backgroundColor: this.state.color}} onMouseEnter={this.handler} onMouseLeave={this.down} to="/home">Home</Link>
+                <Link style={{backgroundColor: this.state.color}} onMouseEnter={this.handler} onMouseLeave={this.down} to="/landingpage">Home</Link>
                 <Link style={{backgroundColor: this.state.color1}} onMouseEnter={this.handler1} onMouseLeave={this.down1} to="/aboutme">About Me</Link>
                 <Link style={{backgroundColor: this.state.color2}} onMouseEnter={this.handler2} onMouseLeave={this.down2} to="/project">Projects</Link>
                 <Link  style={{backgroundColor: this.state.color3}} onMouseEnter={this.handler3} onMouseLeave={this.down3} to="/contact">Contact</Link>
