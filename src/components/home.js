@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import { Grid, Cell} from 'react-mdl';
 import Social from './Social';
 
-
-
-
 class home extends Component {
   render() {
     return(
