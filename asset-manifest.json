@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yashmantri/static/css/main.eaaa206d.chunk.css",
-    "main.js": "/yashmantri/static/js/main.26c56d95.chunk.js",
-    "main.js.map": "/yashmantri/static/js/main.26c56d95.chunk.js.map",
+    "main.js": "/yashmantri/static/js/main.d10b0c05.chunk.js",
+    "main.js.map": "/yashmantri/static/js/main.d10b0c05.chunk.js.map",
     "runtime-main.js": "/yashmantri/static/js/runtime-main.5de778c5.js",
     "runtime-main.js.map": "/yashmantri/static/js/runtime-main.5de778c5.js.map",
     "static/css/2.1cc03777.chunk.css": "/yashmantri/static/css/2.1cc03777.chunk.css",
     "static/js/2.b0edadf6.chunk.js": "/yashmantri/static/js/2.b0edadf6.chunk.js",
     "static/js/2.b0edadf6.chunk.js.map": "/yashmantri/static/js/2.b0edadf6.chunk.js.map",
     "index.html": "/yashmantri/index.html",
-    "precache-manifest.9e9ae032569f4fbe74619e1b8cd7795f.js": "/yashmantri/precache-manifest.9e9ae032569f4fbe74619e1b8cd7795f.js",
+    "precache-manifest.9cfb012344f9255654c42587b0074fc2.js": "/yashmantri/precache-manifest.9cfb012344f9255654c42587b0074fc2.js",
     "service-worker.js": "/yashmantri/service-worker.js",
     "static/css/2.1cc03777.chunk.css.map": "/yashmantri/static/css/2.1cc03777.chunk.css.map",
     "static/css/main.eaaa206d.chunk.css.map": "/yashmantri/static/css/main.eaaa206d.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.1cc03777.chunk.css",
     "static/js/2.b0edadf6.chunk.js",
     "static/css/main.eaaa206d.chunk.css",
-    "static/js/main.26c56d95.chunk.js"
+    "static/js/main.d10b0c05.chunk.js"
   ]
 }
