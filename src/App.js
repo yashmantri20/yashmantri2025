@@ -79,10 +79,10 @@ class App extends Component {
         </Header>
         <Drawer style={{backgroundColor: '#2C5364',color: 'Black'}} title="Social Accounts">
             <Navigation>
-                <a style={{color: 'Black'}} href="https://www.youtube.com/channel/UCuZMVKtjcdkx0IjU2WUjVdA">Youtube</a>
-                <a style={{color: 'Black'}}  href="https://github.com/yashmantri20">Github</a>
-                <a style={{color: 'Black'}} href="https://twitter.com/yashmantri20">Twitter</a>
-                <a style={{color: 'Black'}}href='https://www.instagram.com/yashmantri'>Instagram</a>
+                <Link style={{color: 'Black'}} to="/landingpage">Home</Link>
+                <Link style={{color: 'Black'}} to="/aboutme" >About Me</Link>
+                <Link style={{color: 'Black'}} to="/project" >Projects</Link>
+                <Link style={{color: 'Black'}} to="/contact">Contact</Link>
             </Navigation>
         </Drawer>
         <Content>

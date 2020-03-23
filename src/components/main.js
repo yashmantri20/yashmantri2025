@@ -6,8 +6,6 @@ import LandingPage from './landingpage';
 import AboutMe from './aboutme';
 import Contact from './contact';
 import Projects from './project';
-import Home from './home';
-
 
 const Main = () => (
   <Switch>
