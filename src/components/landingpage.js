@@ -13,7 +13,7 @@ class landingpage extends Component {
           <Cell col={12}>
               <p className="head"> </p>
             <img
-              src="logo.jpg"
+              src="logo192.jpg"
               alt="avatar"
               className="avatar-img"
               />
