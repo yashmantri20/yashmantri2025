@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "yashmantri",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://github.com/yashmantri20.github.io/yashmantri",
@@ -18,12 +18,13 @@
     "styled-components": "^5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-      "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
+
   },
   "eslintConfig": {
     "extends": "react-app"
