@@ -13,7 +13,7 @@ class home extends Component {
           <Cell col={12}>
               <p className="head"> </p>
             <img
-              src="logo.jpg"
+              src={require('./logo.jpg')}
               alt="avatar"
               className="avatar-img"
               />
