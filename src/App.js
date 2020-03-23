@@ -73,7 +73,7 @@ class App extends Component {
             <Navigation>
                 <Link style={{backgroundColor: this.state.color}} onMouseEnter={this.handler} onMouseLeave={this.down} to="/home">Home</Link>
                 <Link style={{backgroundColor: this.state.color1}} onMouseEnter={this.handler1} onMouseLeave={this.down1} to="/aboutme">About Me</Link>
-                <Link style={{backgroundColor: this.state.color2}} onMouseEnter={this.handler2} onMouseLeave={this.down2} to="/projects">Projects</Link>
+                <Link style={{backgroundColor: this.state.color2}} onMouseEnter={this.handler2} onMouseLeave={this.down2} to="/project">Projects</Link>
                 <Link  style={{backgroundColor: this.state.color3}} onMouseEnter={this.handler3} onMouseLeave={this.down3} to="/contact">Contact</Link>
             </Navigation>
         </Header>
@@ -85,10 +85,7 @@ class App extends Component {
                 <a style={{color: 'Black'}}href='https://www.instagram.com/yashmantri'>Instagram</a>
             </Navigation>
         </Drawer>
-        <Content>
-            <div className="page-content" />
-            <Main/>
-        </Content>
+        
     </Layout>
 </div>
     );
