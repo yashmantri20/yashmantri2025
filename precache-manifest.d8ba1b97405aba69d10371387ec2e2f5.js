@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ac79746b6041c9bb5db6b45460bcde9",
+    "revision": "ab2062676b79b6db0559daf7d5b0a06c",
     "url": "/yashmantri/index.html"
   },
   {
-    "revision": "7cee8c762a603f81e3d8",
+    "revision": "0827db9a54203d43a640",
     "url": "/yashmantri/static/css/2.1cc03777.chunk.css"
   },
   {
-    "revision": "5781c4e1e6767064d6db",
+    "revision": "2f111ebad8ec5eaad3f7",
     "url": "/yashmantri/static/css/main.eaaa206d.chunk.css"
   },
   {
-    "revision": "7cee8c762a603f81e3d8",
-    "url": "/yashmantri/static/js/2.b0edadf6.chunk.js"
+    "revision": "0827db9a54203d43a640",
+    "url": "/yashmantri/static/js/2.be0f3633.chunk.js"
   },
   {
     "revision": "e1d2b252d73a4c2bc4d6802ca4ba1aa0",
-    "url": "/yashmantri/static/js/2.b0edadf6.chunk.js.LICENSE.txt"
+    "url": "/yashmantri/static/js/2.be0f3633.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5781c4e1e6767064d6db",
-    "url": "/yashmantri/static/js/main.d10b0c05.chunk.js"
+    "revision": "2f111ebad8ec5eaad3f7",
+    "url": "/yashmantri/static/js/main.836c4ed5.chunk.js"
   },
   {
     "revision": "337fc19b1c7d946abeaa",
