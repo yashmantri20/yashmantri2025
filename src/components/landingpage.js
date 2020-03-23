@@ -4,7 +4,6 @@ import Social from './Social';
 
 
 
-
 class landingpage extends Component {
   render() {
     return(
@@ -13,7 +12,7 @@ class landingpage extends Component {
           <Cell col={12}>
               <p className="head"> </p>
             <img
-              src="logo192.jpg"
+              src={require('./logo.jpg')}
               alt="avatar"
               className="avatar-img"
               />

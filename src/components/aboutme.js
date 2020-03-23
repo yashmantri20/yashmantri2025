@@ -12,7 +12,7 @@ class aboutme extends Component {
           <Cell col={4}>
             <div style={{paddingTop:"20px",paddingLeft:"100px"}}>
               <img
-                src="logo.jpg"
+                src={require('./logo.jpg')}
                 alt="avatar"
                 className="avatar-img"
                  />

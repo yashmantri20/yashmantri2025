@@ -87,8 +87,9 @@ class App extends Component {
         </Drawer>
         <Content>
             <div className="page-content" />
+            <Main/>
         </Content>
-        <Main/>
+        
     </Layout>
 </div>
     );
