@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ef9b4e7396ffdec4f0b9f4ff2048b79",
+    "revision": "7376bccc4252e8d3a03d51c61137701d",
     "url": "/yashmantri/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yashmantri/static/css/2.1cc03777.chunk.css"
   },
   {
-    "revision": "d74f8e0dfc6faae45b38",
+    "revision": "681f4e475e7e3caf3bf2",
     "url": "/yashmantri/static/css/main.eaaa206d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yashmantri/static/js/2.b0edadf6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d74f8e0dfc6faae45b38",
-    "url": "/yashmantri/static/js/main.f05c9e46.chunk.js"
+    "revision": "681f4e475e7e3caf3bf2",
+    "url": "/yashmantri/static/js/main.7a86267e.chunk.js"
   },
   {
     "revision": "337fc19b1c7d946abeaa",
