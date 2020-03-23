@@ -12,13 +12,13 @@ class Social extends Component {
         return (
             <div className="social-container">
 <a
-  href="https://www.youtube.com/c/jamesqquick"
+  href="https://www.youtube.com/channel/UCuZMVKtjcdkx0IjU2WUjVdA"
   className="youtube social"
 >
   <FontAwesomeIcon icon={faYoutube} size="2x" />
 </a>
 <a
-  href="https://www.facebook.com/learnbuildteach/"
+  href="https://github.com/yashmantri20"
   className="facebook social"
 >
   <FontAwesomeIcon icon={faGithub} size="2x" />

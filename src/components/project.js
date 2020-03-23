@@ -76,7 +76,7 @@ class project extends Component {
           return (
              <div className="projects-grid" style={{paddingTop: "40px"}}>
              <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: 'black', height: '230px',paddingLeft:"87px", background: 'url(https://image.shutterstock.com/image-vector/face-detection-260nw-302686790.jpg) center/cover'}} >Face Detection</CardTitle>
+            <CardTitle style={{color: 'black', height: '230px',paddingLeft:"87px", background: 'url(https://image.shutterstock.com/image-vector/face-detection-260nw-302686790.jpg) center/cover'}} >Motion Detection</CardTitle>
             {/* <CardText>
             <b style={{paddingLeft:"105px"}}>Music Player</b>
             </CardText> */}
