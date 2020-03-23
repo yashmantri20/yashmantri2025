@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18b6495149acbb26056cee6cf88b76e9",
+    "revision": "0614d31d65d63621f7526fb1dad83c2e",
     "url": "/yashmantri/index.html"
   },
   {
-    "revision": "bfb393a87d6621cfeb41",
+    "revision": "9962384224757bba8762",
     "url": "/yashmantri/static/css/2.1cc03777.chunk.css"
   },
   {
-    "revision": "2be7a2f49b21542d6b62",
+    "revision": "57610bcefd8c02c4dc7f",
     "url": "/yashmantri/static/css/main.eaaa206d.chunk.css"
   },
   {
-    "revision": "bfb393a87d6621cfeb41",
-    "url": "/yashmantri/static/js/2.9aec3359.chunk.js"
+    "revision": "9962384224757bba8762",
+    "url": "/yashmantri/static/js/2.08568507.chunk.js"
   },
   {
     "revision": "e1d2b252d73a4c2bc4d6802ca4ba1aa0",
-    "url": "/yashmantri/static/js/2.9aec3359.chunk.js.LICENSE.txt"
+    "url": "/yashmantri/static/js/2.08568507.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2be7a2f49b21542d6b62",
-    "url": "/yashmantri/static/js/main.41178536.chunk.js"
+    "revision": "57610bcefd8c02c4dc7f",
+    "url": "/yashmantri/static/js/main.7b4b3e08.chunk.js"
   },
   {
     "revision": "337fc19b1c7d946abeaa",
@@ -46,5 +46,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/yashmantri/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "08d011661cadf4a1660dcb32e783f619",
+    "url": "/yashmantri/static/media/logo.08d01166.jpg"
   }
 ]);
