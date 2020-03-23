@@ -89,7 +89,35 @@ class App extends Component {
             <div className="page-content" />
         </Content>
         <Main/>
+        
     </Layout>
+    <div style={{width: '100%', margin: 'auto'}}>
+        <Grid className="landing-grid">
+          <Cell col={12}>
+              <p className="head"> </p>
+            <img
+              src="logo.jpg"
+              alt="avatar"
+              className="avatar-img"
+              />
+
+            <div className="banner-text">
+              <h2>Computer Engineer</h2>
+
+            <hr/>
+
+          <p>HTML/CSS | C/C++ | Java | JavaScript | Python | PHP</p>
+          <div>
+          <Social/>
+          </div>
+            </div>
+          </Cell>
+        </Grid>
+        
+      </div>
+    )
+  }
+}
 </div>
     );
   }
