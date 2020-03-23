@@ -7,7 +7,7 @@ import Skills from './skills';
 class aboutme extends Component {
   render() {
     return(
-      <div className="header">
+      <div className="demo-tabs">
         <Grid>
           <Cell col={4}>
             <div style={{paddingTop:"20px",paddingLeft:"100px"}}>
