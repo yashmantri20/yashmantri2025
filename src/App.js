@@ -85,7 +85,10 @@ class App extends Component {
                 <a style={{color: 'Black'}}href='https://www.instagram.com/yashmantri'>Instagram</a>
             </Navigation>
         </Drawer>
-        
+        <Content>
+            <div className="page-content" />
+            <Main/>
+        </Content>
     </Layout>
 </div>
     );
