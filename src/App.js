@@ -4,6 +4,8 @@ import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
 import { Grid, Cell} from 'react-mdl';
 import Main from './components/main';
 import { Link } from 'react-router-dom';
+import Social from './components/Social';
+
 
 class App extends Component {
     constructor(props) {
