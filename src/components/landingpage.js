@@ -22,7 +22,7 @@ class landingpage extends Component {
 
             <hr/>
 
-          <p>HTML/CSS | C/C++ | Java | JavaScript | Python | PHP</p>
+          <p>JavaScript | ReactJs | NodeJs | GraphQL | HTML/CSS | Python | MongoDB</p>
           <div>
           <Social/>
           </div>
