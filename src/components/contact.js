@@ -16,20 +16,20 @@ class contact extends Component {
             <div className="contact-list">
             <p style={{paddingTop:"1px"}}></p>
             
-                  <div style={{fontSize: '25px', fontFamily: 'Anton'}}>
+                  <div style={{fontSize: '25px', fontFamily: 'Anton',color:"#bdc3c7"}}>
                     <i className="fa fa-phone-square" aria-hidden="true"/>
                     9601450402
                   </div>
                   <p style={{paddingTop:"20px"}}></p>
         
-                <div style={{fontSize: '25px', fontFamily: 'Anton'}}>
+                <div style={{fontSize: '25px', fontFamily: 'Anton',color:"#bdc3c7"}}>
                     <i className="fa fa-fax" aria-hidden="true"/>
                     8866534154
                     </div> 
                     
                     <p style={{paddingTop:"20px"}}></p>
         
-              <div style={{fontSize: '25px', fontFamily: 'Anton'}}>
+              <div style={{fontSize: '25px', fontFamily: 'Anton',color:"#bdc3c7"}}>
                     <i className="fa fa-envelope" aria-hidden="true"/>
                     mantriyash2025@gmail.com</div>
 
